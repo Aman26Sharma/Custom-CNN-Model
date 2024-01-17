@@ -10,9 +10,7 @@ Here is the architecture of our proposed custom CNN model.
 
 Here are the results:
 
+![ML_Comparison2](https://github.com/Aman26Sharma/Custom-CNN-Model/assets/64535031/43e6b510-9094-4c73-a7d8-33c6709a0be4)
+
+
 ![ML_Comparison](https://github.com/Aman26Sharma/Custom-CNN-Model/assets/64535031/2a9631f6-a64d-4c02-b65b-e1e4d931898b)
-
-
-![DL_Comparison](https://github.com/Aman26Sharma/Custom-CNN-Model/assets/64535031/724262bd-8237-46cf-bb3c-1c040c772ac4)
-
-
